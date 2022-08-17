@@ -2,6 +2,6 @@
 
 # frontend mentor challenge
 
-just html & css
+ # html & css
 
-click [HERE](https://sidney2022.github.io/product-prev-card) to visit live site
+# click [HERE](https://sidney2022.github.io/product-prev-card) to visit live site
