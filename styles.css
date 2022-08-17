@@ -99,3 +99,20 @@ button:hover {
     color: #fff;
     margin-right: 5px;
 }
+
+@media (max-width:768px)  {
+    main {
+        flex-direction:column;
+        width: 300px;
+        margin: 0 auto;
+        margin-top: 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .card-img {
+        height: 250px;
+    }
+    .prices {
+        padding: 25px 0;
+    }
+}
